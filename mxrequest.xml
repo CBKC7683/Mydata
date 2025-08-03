@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<MXMessage>
+  <Header>
+    <Sender>FO</Sender>
+    <Receiver>BO</Receiver>
+    <MsgType>TradeCapture</MsgType>
+  </Header>
+  <Body>
+    <Trade id="TRD12345" product="FX Spot" amount="1000000" currency="USD" />
+  </Body>
+</MXMessage>

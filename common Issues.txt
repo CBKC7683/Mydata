@@ -1,0 +1,4 @@
+1. Batch Failure – Investigate in batch log
+2. MxML not processed – Check MxML logs
+3. Trade not appearing – Check if feed processed or trade deleted
+4. Reports blank – Validate DM Query and Table data
